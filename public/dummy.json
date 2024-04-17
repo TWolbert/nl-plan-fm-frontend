@@ -1,0 +1,48 @@
+{
+    "user": {
+        "name": "Teun",
+        "image": "https://s3-alpha-sig.figma.com/img/e333/5756/ea44064d712f823ec384d6d8f638fbb8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bGDN46ADiu46NaEJIVfm9gaxt-n8yj3sZW6y7P9Iu8Dj0weUgV1vEUuW-yUr1VjKEDmQcKHDizQPdQInBUgD1FiHPsiWstxS~8BjIptlSMHeF48qXyM0BWrdLev0pZMSvJJmoxdUOaRwexwP00JaooX9VNT3EU9zCVwOJo6hZ2weKZXs74gho4dofSn2WrpS1uRwxdXVC-6rb-xovVltkL0OCtYGGn0HZQ1vFZUNtL1NagXX9E-EyB7raWjRxQWDO3YKOqmHDmX45X9WJIkyGsz6uIDXj7XdHor~XgTbCY88a86bnVizjP3RDNHvMdxMdalNaVCdMJGdfnhyHQ-1tA__"
+    },
+    "Music": {
+        "title": "Ecstacy - SUICIDAL-IDOL",
+        "image": "https://s3-alpha-sig.figma.com/img/38e9/95f3/39c2822747bcad7b9123debba0f080b1?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oihN-XSaQCbEHufW7LmGvibsQeuiYBTTa5BIxUEH~t1XFL15xcmTk6EnazurM0UBZ7g1Fd0L-aqLVfEoywn-Njl1WhgTPAEk~X9WXST1CA45jCrUHlpA40Zst~IUzAGxtEaI-fyPIVZqE5Jxexdh4YV8o1tYfUhGo9L0YSnx5FrlFewcS7AdDe0MYdnoUWbUbXhAV4fNTFHdwnao6jwYdc8Q8IPjxC-nC9PZ~Iq4RSY~CNji6npx3yXO7J1pJ~cdINpwYKqhgfsdYVjA-KXpMfkd6sl2An9tIqoLKuV1bsc69zPJpjrQHp1cV4x~hjapz0xRnY2JKNIqyGmpIltmGw__"
+    },
+    "voting-group": [
+    [
+        "Europapa - Joost",
+        "https://s3-alpha-sig.figma.com/img/78d7/78dd/c04954953963d36ab4757d8707d561e8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bwAfgsiP4fysIlMdK8X7MsuNg~6rP4gme3ri7pEI9I8OBVkURW7CigPIqsszoPF6ZQFL4aytMTPUgnmXiiCp2yNKCwCJsQNS0Qy6Vf5rllpRFgTcrbP5XZ7fYJeLQ5HmFPFuRU~lHL5vWpeK~WN4ruFu~osckgv39giNjiqiUVEoTGNB9Hui1zFMrFLSedYlm9gl3noS2wXQ4afNSDWoDm-8BpyU0BYMCC07Frin7DXymYuHd7q1hLL7wochqZD~d3wWtWevY8z3-vPyCYZhnQg4SW8-vag4DyM8o6kghu75E~adIHEZUTIcB-A0f-UVCuIfS5ekX3lo82W6Wg-Jgw__",
+        "https://s3-alpha-sig.figma.com/img/e333/5756/ea44064d712f823ec384d6d8f638fbb8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bGDN46ADiu46NaEJIVfm9gaxt-n8yj3sZW6y7P9Iu8Dj0weUgV1vEUuW-yUr1VjKEDmQcKHDizQPdQInBUgD1FiHPsiWstxS~8BjIptlSMHeF48qXyM0BWrdLev0pZMSvJJmoxdUOaRwexwP00JaooX9VNT3EU9zCVwOJo6hZ2weKZXs74gho4dofSn2WrpS1uRwxdXVC-6rb-xovVltkL0OCtYGGn0HZQ1vFZUNtL1NagXX9E-EyB7raWjRxQWDO3YKOqmHDmX45X9WJIkyGsz6uIDXj7XdHor~XgTbCY88a86bnVizjP3RDNHvMdxMdalNaVCdMJGdfnhyHQ-1tA__"
+    ],
+    [
+        "Europapa - Joost",
+        "https://s3-alpha-sig.figma.com/img/78d7/78dd/c04954953963d36ab4757d8707d561e8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bwAfgsiP4fysIlMdK8X7MsuNg~6rP4gme3ri7pEI9I8OBVkURW7CigPIqsszoPF6ZQFL4aytMTPUgnmXiiCp2yNKCwCJsQNS0Qy6Vf5rllpRFgTcrbP5XZ7fYJeLQ5HmFPFuRU~lHL5vWpeK~WN4ruFu~osckgv39giNjiqiUVEoTGNB9Hui1zFMrFLSedYlm9gl3noS2wXQ4afNSDWoDm-8BpyU0BYMCC07Frin7DXymYuHd7q1hLL7wochqZD~d3wWtWevY8z3-vPyCYZhnQg4SW8-vag4DyM8o6kghu75E~adIHEZUTIcB-A0f-UVCuIfS5ekX3lo82W6Wg-Jgw__",
+        "https://s3-alpha-sig.figma.com/img/e333/5756/ea44064d712f823ec384d6d8f638fbb8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bGDN46ADiu46NaEJIVfm9gaxt-n8yj3sZW6y7P9Iu8Dj0weUgV1vEUuW-yUr1VjKEDmQcKHDizQPdQInBUgD1FiHPsiWstxS~8BjIptlSMHeF48qXyM0BWrdLev0pZMSvJJmoxdUOaRwexwP00JaooX9VNT3EU9zCVwOJo6hZ2weKZXs74gho4dofSn2WrpS1uRwxdXVC-6rb-xovVltkL0OCtYGGn0HZQ1vFZUNtL1NagXX9E-EyB7raWjRxQWDO3YKOqmHDmX45X9WJIkyGsz6uIDXj7XdHor~XgTbCY88a86bnVizjP3RDNHvMdxMdalNaVCdMJGdfnhyHQ-1tA__"
+    ],
+    [
+        "Europapa - Joost",
+        "https://s3-alpha-sig.figma.com/img/78d7/78dd/c04954953963d36ab4757d8707d561e8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bwAfgsiP4fysIlMdK8X7MsuNg~6rP4gme3ri7pEI9I8OBVkURW7CigPIqsszoPF6ZQFL4aytMTPUgnmXiiCp2yNKCwCJsQNS0Qy6Vf5rllpRFgTcrbP5XZ7fYJeLQ5HmFPFuRU~lHL5vWpeK~WN4ruFu~osckgv39giNjiqiUVEoTGNB9Hui1zFMrFLSedYlm9gl3noS2wXQ4afNSDWoDm-8BpyU0BYMCC07Frin7DXymYuHd7q1hLL7wochqZD~d3wWtWevY8z3-vPyCYZhnQg4SW8-vag4DyM8o6kghu75E~adIHEZUTIcB-A0f-UVCuIfS5ekX3lo82W6Wg-Jgw__",
+        "https://s3-alpha-sig.figma.com/img/e333/5756/ea44064d712f823ec384d6d8f638fbb8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bGDN46ADiu46NaEJIVfm9gaxt-n8yj3sZW6y7P9Iu8Dj0weUgV1vEUuW-yUr1VjKEDmQcKHDizQPdQInBUgD1FiHPsiWstxS~8BjIptlSMHeF48qXyM0BWrdLev0pZMSvJJmoxdUOaRwexwP00JaooX9VNT3EU9zCVwOJo6hZ2weKZXs74gho4dofSn2WrpS1uRwxdXVC-6rb-xovVltkL0OCtYGGn0HZQ1vFZUNtL1NagXX9E-EyB7raWjRxQWDO3YKOqmHDmX45X9WJIkyGsz6uIDXj7XdHor~XgTbCY88a86bnVizjP3RDNHvMdxMdalNaVCdMJGdfnhyHQ-1tA__"
+    ]
+],
+    "voting": {
+        "0": {
+            "title": "As the world caves in - Matt",
+            "image": "https://s3-alpha-sig.figma.com/img/0f62/66a2/2ff2c9b7d7e506bb2f68198680b8b433?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=g90q3mfGPHkYr6ibKGzSx5IoGdIBGB9W-LbThZvtduKVBDOcB~-NAWon3ROV152AVYgFsRyaNExQpym1onSUyCV68eFvFlycUbOyfGNF9VWk5~VlvrS~DDgfOse69hPq7Se57sqb4ph41rdKF-CuIH1BAplCzmeg2grZyDdajIQRPKAJ19Qd0~sReuyxqUhiAU942aogKbeZcEtxttNepr-gplWX0oIkeDQIRaFvxkYPaGprPDUW0Ol5~7~smTZACNtd6J71cJ84wNDekZkmTrdNRedc6A29YE6cKKlDWoCf9LhnnHIn0yVnTdlM2cdq-oD57IJB~6sMbWv6EySvPw__",
+            "votes": "4",
+            "requester": "Baue Dauviller Boots"
+        },
+        "1": {
+            "title": "Fairy Tale - Alexander Rybak",
+            "image": "https://s3-alpha-sig.figma.com/img/04f8/c4ba/00e7d21964c42696343b1c4a18b0cb09?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LgIFRaTLZNjEu3chXO~owqp3cv-WLEkp2vea53DzUwgcoHgev7SW6BjFVBUkUbIONAoNj~fZhzzoyxbSnslaBFEOUUfoYuKbt6GdGFPLi9i3LkjnJkMWZKejTb~jodJzN9Z4mtIinm0NCddzMMwc16m97VsBgYNwCZnVdMCIIEKLEWB8TcbcfhjHZo66Ka3JjP3s3xtdQGF4gyjeXVp4GV-5od3m94CYvzbaqBF9TFIkBWZxqzTo3YUJwaGUTkNjOWQbegR~Z9~NsJiFAKgG1DHmyVNM7OahrP6Z5ipAQa-5KVzAIYTwR4ctqepTTDn4Y26tacMHhMeX0xCYESQRyA__",
+            "votes": "8",
+            "requester": "Baue Dauviller Boots"
+        }
+    },
+    "peopleListening": [
+        ["https://s3-alpha-sig.figma.com/img/e333/5756/ea44064d712f823ec384d6d8f638fbb8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bGDN46ADiu46NaEJIVfm9gaxt-n8yj3sZW6y7P9Iu8Dj0weUgV1vEUuW-yUr1VjKEDmQcKHDizQPdQInBUgD1FiHPsiWstxS~8BjIptlSMHeF48qXyM0BWrdLev0pZMSvJJmoxdUOaRwexwP00JaooX9VNT3EU9zCVwOJo6hZ2weKZXs74gho4dofSn2WrpS1uRwxdXVC-6rb-xovVltkL0OCtYGGn0HZQ1vFZUNtL1NagXX9E-EyB7raWjRxQWDO3YKOqmHDmX45X9WJIkyGsz6uIDXj7XdHor~XgTbCY88a86bnVizjP3RDNHvMdxMdalNaVCdMJGdfnhyHQ-1tA__", "Teun Wolbert", "1h 20m"],
+        ["https://s3-alpha-sig.figma.com/img/e333/5756/ea44064d712f823ec384d6d8f638fbb8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bGDN46ADiu46NaEJIVfm9gaxt-n8yj3sZW6y7P9Iu8Dj0weUgV1vEUuW-yUr1VjKEDmQcKHDizQPdQInBUgD1FiHPsiWstxS~8BjIptlSMHeF48qXyM0BWrdLev0pZMSvJJmoxdUOaRwexwP00JaooX9VNT3EU9zCVwOJo6hZ2weKZXs74gho4dofSn2WrpS1uRwxdXVC-6rb-xovVltkL0OCtYGGn0HZQ1vFZUNtL1NagXX9E-EyB7raWjRxQWDO3YKOqmHDmX45X9WJIkyGsz6uIDXj7XdHor~XgTbCY88a86bnVizjP3RDNHvMdxMdalNaVCdMJGdfnhyHQ-1tA__", "Teun Wolbert", "10h 9m"],
+        ["https://s3-alpha-sig.figma.com/img/e333/5756/ea44064d712f823ec384d6d8f638fbb8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bGDN46ADiu46NaEJIVfm9gaxt-n8yj3sZW6y7P9Iu8Dj0weUgV1vEUuW-yUr1VjKEDmQcKHDizQPdQInBUgD1FiHPsiWstxS~8BjIptlSMHeF48qXyM0BWrdLev0pZMSvJJmoxdUOaRwexwP00JaooX9VNT3EU9zCVwOJo6hZ2weKZXs74gho4dofSn2WrpS1uRwxdXVC-6rb-xovVltkL0OCtYGGn0HZQ1vFZUNtL1NagXX9E-EyB7raWjRxQWDO3YKOqmHDmX45X9WJIkyGsz6uIDXj7XdHor~XgTbCY88a86bnVizjP3RDNHvMdxMdalNaVCdMJGdfnhyHQ-1tA__", "Teun Wolbert", "26m"],
+        ["https://s3-alpha-sig.figma.com/img/e333/5756/ea44064d712f823ec384d6d8f638fbb8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bGDN46ADiu46NaEJIVfm9gaxt-n8yj3sZW6y7P9Iu8Dj0weUgV1vEUuW-yUr1VjKEDmQcKHDizQPdQInBUgD1FiHPsiWstxS~8BjIptlSMHeF48qXyM0BWrdLev0pZMSvJJmoxdUOaRwexwP00JaooX9VNT3EU9zCVwOJo6hZ2weKZXs74gho4dofSn2WrpS1uRwxdXVC-6rb-xovVltkL0OCtYGGn0HZQ1vFZUNtL1NagXX9E-EyB7raWjRxQWDO3YKOqmHDmX45X9WJIkyGsz6uIDXj7XdHor~XgTbCY88a86bnVizjP3RDNHvMdxMdalNaVCdMJGdfnhyHQ-1tA__", "Teun Wolbert", "4h 5m"],
+        ["https://s3-alpha-sig.figma.com/img/e333/5756/ea44064d712f823ec384d6d8f638fbb8?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bGDN46ADiu46NaEJIVfm9gaxt-n8yj3sZW6y7P9Iu8Dj0weUgV1vEUuW-yUr1VjKEDmQcKHDizQPdQInBUgD1FiHPsiWstxS~8BjIptlSMHeF48qXyM0BWrdLev0pZMSvJJmoxdUOaRwexwP00JaooX9VNT3EU9zCVwOJo6hZ2weKZXs74gho4dofSn2WrpS1uRwxdXVC-6rb-xovVltkL0OCtYGGn0HZQ1vFZUNtL1NagXX9E-EyB7raWjRxQWDO3YKOqmHDmX45X9WJIkyGsz6uIDXj7XdHor~XgTbCY88a86bnVizjP3RDNHvMdxMdalNaVCdMJGdfnhyHQ-1tA__", "Teun Wolbert", "5h 20m"]
+    ]
+}
