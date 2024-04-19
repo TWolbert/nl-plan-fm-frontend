@@ -10,16 +10,16 @@ declare global {
   }
 }
 
-interface User {
+export interface User {
   id: number,
-  name: string
-  email: string,
-  image_id: number,
+  name: string | null,
+  email: string | null,
+  image_id: number | null,
   image?: Image | null,
-  password: null
-  role: Role,
-  createdAt: string
-  updatedAt: string
+  password: string | null
+  role: Role | null,
+  createdAt: Date | null,
+  updatedAt: Date | null,
 }
 
 interface Image {

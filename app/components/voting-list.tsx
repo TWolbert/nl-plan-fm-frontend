@@ -26,8 +26,6 @@ export default function VotingList() {
                     return <Item title={item[0]} image={item[1]} voter={item[2]} />
                 })
             }
-        <script>
-        </script>
         </div>
     )
 }
